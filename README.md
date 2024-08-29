@@ -30,21 +30,21 @@
 
 ## 🌟 Expérience professionnelle
 
-### <a  href="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"><img src="https://pbs.twimg.com/profile_images/1690350446601175041/9ewlpl4u_400x400.png" style="height:20px"></a> [Orange Côte d'Ivoire](https://www.orange.ci/) - Assistant Chargé de Fiabilisation de Données
+### <a href="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://pbs.twimg.com/profile_images/1690350446601175041/9ewlpl4u_400x400.png" style="height:20px"></a> [Orange Côte d'Ivoire](https://www.orange.ci/) - Assistant Chargé de Fiabilisation de Données
 - **Période :** Depuis le 11 mars 2024
 - **Responsabilités :**
   - Amélioration de la qualité des données pour des bases CRM et commerciales.
   - Développement de scripts Python pour l’automatisation de la collecte et du traitement de données.
   - Suivi et analyse des indicateurs de performance pour optimiser les opérations.
 
-### 📊 [DDMA](https://www.ddma.org/) - Data Scientist Junior (Stage)
+### <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScnYEdnHDL6pGOl7WW3cLC-UOwe4fChRN7A&s[DDMA](https://www.ddma.org/)"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScnYEdnHDL6pGOl7WW3cLC-UOwe4fChRN7A&s" style="height:20px"></a> [DDMA](https://ddmafrica.com/) - Data Scientist Junior
 - **Période :** 18 décembre 2023 - 08 mars 2024
 - **Responsabilités :**
   - Extraction de données web pour enrichir les bases internes.
   - Suivi des performances des secteurs électriques et comparaison internationale.
   - Préparation de rapports détaillés avec recommandations.
 
-### 💡 [CIE](https://www.cie.ci/) - Data Analyst Junior (Stage)
+### <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXN-MdleJcrOziZZbKv0HkJ2nAE_oHemDUw&s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXN-MdleJcrOziZZbKv0HkJ2nAE_oHemDUw&s" style="height:25px; width: 25px"></a> [CIE](https://www.cie.ci/) - Data Analyst Junior
 - **Période :** 20 juillet 2022 – 28 septembre 2023
 - **Responsabilités :**
   - Collecte et analyse de données pour évaluer les performances des secteurs électriques.
