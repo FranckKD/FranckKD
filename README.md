@@ -30,7 +30,7 @@
 
 ## 🌟 Expérience professionnelle
 
-### <a target="_blank" href="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://pbs.twimg.com/profile_images/1690350446601175041/9ewlpl4u_400x400.png" style="height:20px"></a> [Orange Côte d'Ivoire](https://www.orange.ci/) - Assistant Chargé de Fiabilisation de Données
+### <a  href="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"><img src="https://pbs.twimg.com/profile_images/1690350446601175041/9ewlpl4u_400x400.png" style="height:20px"></a> [Orange Côte d'Ivoire](https://www.orange.ci/) - Assistant Chargé de Fiabilisation de Données
 - **Période :** Depuis le 11 mars 2024
 - **Responsabilités :**
   - Amélioration de la qualité des données pour des bases CRM et commerciales.
