@@ -63,7 +63,7 @@
 
 - **Email :** [djidjifranck2000@gmail.com](mailto:djidjifranck2000@gmail.com)
 - **Téléphone :** (+225) 05 44 26 64 96
-- **LinkedIn :** [Kadjo Emmanuel](www.linkedin.com/in/franck-emmanuel-djidji-kadjo-1a4601156)
+- **LinkedIn :** <a href="www.linkedin.com/in/franck-emmanuel-djidji-kadjo-1a4601156" target="_blank">[Kadjo Emmanuel]</a>
 - **GitHub :** [KadjoEmmanuel](https://github.com/FranckKD)
 
 ---
